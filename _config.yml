@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Pong V. Pantola
+name: Harvey
 
 # Short bio or description (displayed in the header)
 description: web developer
@@ -18,10 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: pong.pantola@delasalle.ph
-  facebook: pong.pantola@delasalle.ph
   flickr:
-  github: pong-pantola/jekyll-now
   instagram:
   linkedin:
   pinterest:
@@ -34,7 +31,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: applicationdevelopmenttutorial
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -47,7 +44,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://pong-pantola.github.io"
+baseurl: "http://jhdc03.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
